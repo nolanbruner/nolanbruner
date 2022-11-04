@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nolanbruner
 - 👀 I’m interested in web development, app development, Artificial Intelligence.
-- 🌱 I’m currently learning for a full time position in full-stack development.
+- 🌱 I’m currently learning for a full time position in front-end development.
 - 📫 How to reach me at linkedin.com/in/nolanbruner
+- check out more of my projects at nolanbruner.com
 
 <!---
 nolanbruner/nolanbruner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

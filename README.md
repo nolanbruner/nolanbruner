@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nolanbruner
 - 👀 I’m interested in web development, app development, Artificial Intelligence.
-- 🌱 I’m currently looking for a full time position as a front-end developer.
+
 - 📫 How to reach me at linkedin.com/in/nolanbruner
 - check out more of my projects at nolanbruner.com
 
